@@ -1,0 +1,40 @@
+.main{
+    background-color: rgb(227, 227, 185);
+    display: flex;
+    flex-wrap: wrap;
+    margin: 50px;
+    height: 600px;
+    border-radius: 25px;
+}
+.sub{
+    border: 3px solid orange;
+    box-shadow: 10px 10px 10px black;
+    height: 520px;
+    width: 250px;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 10px;
+    margin-left: 50px;
+}
+img{
+    height: 300px;
+    width: 200px;
+    margin-left: 10px;
+}
+.btn1{
+    background-color: orange;
+    margin: 5px;
+    border: none;
+    width: 130px;
+    height: 30px;
+    border-radius: 5px;
+    
+}
+.btn2{
+    background-color:orange;
+    border: none;
+    border-radius: 5px;
+    width: 60px;
+    height: 30px;
+    margin: 5px;
+}
